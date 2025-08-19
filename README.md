@@ -1,4 +1,4 @@
- 
+ ![logo](https://github.com/Arif1234-cpu/Arif1234-cpu/blob/main/githbanner.png)
 <h1 align="center">
 
   Hi 👋, I'm Mohammad Arif Khan — a Computer Engineering student and a passionate  
