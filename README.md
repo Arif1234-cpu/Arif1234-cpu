@@ -1,8 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mohammad Arif Khan</h1>
-<h3 align="center">A passionate Computer Engineering Student from India</h3>
+ 
+<h1 align="center">
+
+  Hi 👋, I'm Mohammad Arif Khan — a Computer Engineering student and a passionate  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=00C7FF&center=true&vCenter=true&width=200&lines=Coder;Programmer;Web+Developer;ML+Enthusiast)](https://git.io/typing-svg)
+
+</h1>
+
+ 
 
 <img align="right" alt="coding" width="400" margin="100px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- 🌱 I’m currently learning **Frontend development ,Data structure and Algorithm**
+ 🌱 I’m currently learning <h4>Frontend development ,Data structure and Algorithm,Data Base Management System </h4>
 
 - 👨‍💻 All of my projects are available at [http://github.com/Arif1234-cpu](http://github.com/Arif1234-cpu)
 
